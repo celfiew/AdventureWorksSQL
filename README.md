@@ -1,5 +1,4 @@
-# AdventureWorksSQL
-# RentalPlataformSQL :card_index:
+# AdventureWorksSQL :tv:
 
 ### MySQL:
 
